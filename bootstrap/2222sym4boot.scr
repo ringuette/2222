@@ -1,0 +1,55 @@
+ScrambleAlg Ro
+Rx
+End
+
+ScrambleAlg Ru
+Ry
+End
+
+ScrambleAlg Rf
+Rz
+End
+
+ScrambleAlg Ruf
+Rx Ry2
+End
+
+ScrambleAlg Rui
+Rz Ry2
+End
+
+ScrambleAlg Rub
+Rx' Ry2
+End
+
+ScrambleAlg Ruo
+Rz' Ry2
+End
+
+ScrambleAlg Rfo
+Ry Rz2
+End
+
+ScrambleAlg Rfi
+Ry' Rz2
+End
+
+ScrambleAlg Rufo
+Ry Rz
+End
+
+ScrambleAlg Rufi
+Ry Rx'
+End
+
+ScrambleAlg Rubi
+Rx' Ry
+End
+
+ScrambleAlg Rubo
+Rz' Ry
+End
+
+ScrambleAlg G
+Rx Lx Ry Ly' Gyro
+End
