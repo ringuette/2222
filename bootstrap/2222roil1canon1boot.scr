@@ -1,4 +1,10 @@
-# All moves for Roil1 and Canon1, bootstrapped from Rx, Ry, and FOro, which were handcoded into 222simplest.def .
+# All moves for Roil1 and Canon1, bootstrapped from 2222bootstrap.def. 
+# It's necessary to bootstrap using a few passes, since some of the ScrambleAlg's
+# later in this file rely on earlier ones.
+#    ksolve/ksolve 2222bootstrap.def 2222roil1canon1boot.scr
+#        [ create some new Move's from the positions printed in the ksolve output ]
+#    ... repeat ...
+#
 # Marc Ringuette, 9/17/2018
 
 ScrambleAlg Gyro

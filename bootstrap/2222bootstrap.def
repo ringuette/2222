@@ -29,7 +29,7 @@ Name 2222bootstrap
 #
 # This file, 2222bootstrap, has the three primitive moves that I had to hand-code:  Rx, Ry, and FOro.
 #
-# By processing the other "boot" scrambles and cut-and-pasting the positions resulting from each ScrambleAlg, the goal movesets can be produced.
+# By processing the other "boot" scrambles with ksolve and cut-and-pasting the positions resulting from each ScrambleAlg, the goal movesets can be produced.
 #
 
 Set Stickers 64 1
