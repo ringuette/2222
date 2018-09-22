@@ -1,6 +1,11 @@
 Name 2222roil1
 
 # Marc Ringuette 9/17/2018
+#
+# Marc's favorite move set.  Compared to 2222canon1, this omits the Gyro move, 
+# and adds Iy, Iz, Oy, Oz (the non canonical twists).   
+# The exact equivalent of the FOro gyro in this moveset is:   Iy Oy' Rx2 B2 U2 Rx2
+# 
 
 Set Stickers 64 1
 
