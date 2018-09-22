@@ -1,0 +1,70 @@
+# All moves for Roil1 and Canon1, bootstrapped from Rx, Ry, and FOro, which were handcoded into 222simplest.def .
+# Marc Ringuette, 9/17/2018
+
+ScrambleAlg Gyro
+FOro
+End
+
+ScrambleAlg Rx
+Rx
+End
+
+ScrambleAlg Ry
+Ry
+End
+
+ScrambleAlg Rz
+Rx Ry Rx' 
+End
+
+ScrambleAlg Lx
+FOro2 Rx' FOro2
+End
+
+ScrambleAlg Ly
+FOro2 Ry' FOro2
+End
+
+ScrambleAlg Lz
+FOro2 Rz FOro2
+End
+
+ScrambleAlg Ix
+Rz Lz' FOro Ry' FOro' Rz' Lz
+End
+
+ScrambleAlg Iy
+Rz Lz' FOro Ix2 Rz' Ix2 Ry' Ix2 Rz Ix2 Rz' Ry FOro' Rz' Lz
+End
+
+ScrambleAlg Iz
+Ix Iy Ix'
+End
+
+ScrambleAlg Ox
+Ry2 Ly2  Ix'  Ry2 Ly2
+End
+
+ScrambleAlg Oy
+Ry2 Ly2  Iy  Ry2 Ly2
+End
+
+ScrambleAlg Oz
+Ox Oy Ox'
+End
+
+ScrambleAlg U2
+Lz Rz' Iy2 Lz' Rz
+End
+
+ScrambleAlg D2
+Lz' Rz Iy2 Lz Rz'
+End
+
+ScrambleAlg F2
+Ly' Ry Iz2 Ly Ry'
+End
+
+ScrambleAlg B2
+Ly Ry' Iz2 Ly' Ry
+End
