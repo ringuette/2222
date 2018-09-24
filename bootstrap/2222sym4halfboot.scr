@@ -1,0 +1,56 @@
+# All moves for Sym4half, bootstrapped from Canon1.  Uses only faces RUFI.
+# Marc Ringuette, 9/24/2018
+# G cycles FRDIBLUO.  It is discarded after bootstrapping.
+
+ScrambleAlg G
+Rx Lx Ry Ly' Gyro
+End
+
+ScrambleAlg Ru
+Ry
+End
+
+ScrambleAlg Rf
+Rz
+End
+
+ScrambleAlg Ri
+Rx'
+End
+
+ScrambleAlg Ur
+G3 Rf' G3'
+End
+
+ScrambleAlg Uf
+G3 Ri G3'
+End
+
+ScrambleAlg Ui
+G3 Ru G3'
+End
+
+ScrambleAlg Fr
+G Ru' G'
+End
+
+ScrambleAlg Fu
+G Ri' G'
+End
+
+ScrambleAlg Fi
+G Rf' G'
+End
+
+ScrambleAlg Ir
+G2' Ri' G2
+End
+
+ScrambleAlg Iu
+G2' Rf' G2
+End
+
+ScrambleAlg If
+G2' Ru G2
+End
+

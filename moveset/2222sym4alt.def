@@ -1,12 +1,12 @@
-Name 2222sym4
+Name 2222sym4alt
 
 # Marc Ringuette 9/21/2018
 #
-# Symmetric 4D moveset, alternating move version.
+# Symmetric 4D moveset, alternating move version.   Not very successful:  hard to search and use.
 # Moves are of two kinds:  all 23 twists of a single face; and 7 ways to rotate other faces onto the face that is twisted (the R face).
 # The product of these is 7*23 = 161 pairs of moves.   The two types of moves should (if my reasoning is correct) always alternate.
 #
-# The G move at the bottom, when expanded, forms an 8-cycle of axis changes.
+# The G move at the bottom, when expanded, forms an 8-cycle of axis changes:  FRDIBLUO
 #
 
 Set Stickers 64 1
