@@ -1,0 +1,6 @@
+# from Marc inspired by Joel
+# all changes are in the LU quarter of the puzzle, LUFO --> LUBI --> LUBO
+
+ScrambleAlg cycl3d
+Uy2 Rx' Uy2 Rx'y2 Uy2 Rx Uy2   Ly   Uy2 Rx' Uy2 Rx'y2 Uy2 Rx Uy2    Ly'
+End

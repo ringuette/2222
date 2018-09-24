@@ -1,0 +1,5 @@
+# Marc's manual 16-move 3-cycle
+
+ScrambleAlg cycl3a
+Lz' F2 Lx F2 Lx' F2 Lz  Ox2   Lz' F2 Lx F2 Lx' F2 Lz  Ox2
+End

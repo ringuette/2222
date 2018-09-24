@@ -1,0 +1,6 @@
+# from Marc inspired by Joel (12 moves canonical, by hand)
+# all changes are in the UF quarter of the puzzle, LUFO <--> LUFI, RUFO <--> RUFI
+
+ScrambleAlg cyc22a
+U2 Lx' U2 Lx U2 Rx Ry2   U2 Lx' U2 Lx U2 Rx Ry2
+End

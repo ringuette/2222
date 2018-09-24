@@ -1,0 +1,5 @@
+ScrambleAlg cycl3c_lufo_rufi_rufo_aligned
+    Ry    Ox Rz Ox2 Rz' Ox' Rz Ox' Rz' Ox Rz Ox' Rz'  Ox'    Ry'   Ox Rz Ox Rz' Ox' Rz Ox Rz' Ox Rz Ox2 Rz' Ox' 
+Iz' Rz Iz Ix2 Rz' Ly2 Lx'    Lz' F2 Lx F2 Lx' F2 Lz Ox2 Lz' F2 Lx F2 Lx' F2 Lz Ox2     Lx Ly2 Rz Ix2 Iz' Rz' Iz    
+   Ox Rz Ox Rz' Ox' Rz Ox Rz' Ox Rz Ox2 Rz' Ox'     Ry    Ox Rz Ox2 Rz' Ox' Rz Ox' Rz' Ox Rz Ox' Rz'  Ox'    Ry'
+End
