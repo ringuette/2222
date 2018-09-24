@@ -5,7 +5,7 @@ Name 2222sym4half
 # Symmetric 4D "Half" moveset, encompassing R, U, F, and I moves, each of which twists
 # the other three (so Ru, Rf, Ri, Ur, ... If)
 #
-# These are sufficient to reach the whole space modulo a full-puzzle rotation.
+# These are sufficient to reach the whole space modulo a full-puzzle rotation. 
 #
 
 Set Stickers 64 1
