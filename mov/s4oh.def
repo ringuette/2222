@@ -1,12 +1,7 @@
-Name 2222sym4half
+Name s4oh
 
-# Marc Ringuette 9/21/2018
-#
-# Symmetric 4D "Half" moveset, encompassing R, U, F, and I moves, each of which twists
-# the other three (so Ru, Rf, Ri, Ur, ... If)
-#
-# These are sufficient to reach the whole space modulo a full-puzzle rotation. 
-#
+# "symmetric 4d, orthogonal, half"
+# s4oh --> Allows Ru, Rf, Ri, Ur, Uf, Ui, Fr, Fu, Fi, Ir, Iu, If
 
 Set Stickers 64 1
 

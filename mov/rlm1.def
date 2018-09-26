@@ -1,17 +1,7 @@
-Name 2222rlm
+Name rlm1
 
-#
-# R, L, and M moves, based on Andy Farkas's proposal that the M move be explicit.
-#
-# This requires explicitly representing the inverted "junctions out" states of the puzzle,
-# making it hard to follow along with MC4D. 
-#
-# Inverted states are represented here by the "opposite handed" version of each piece.
-# We were only using half of the 24 orientations available for each piece, so I could simply
-# allow the M move to flip the handedness of every piece.  As long as you start and end "corners out", 
-# you'll never even notice that you visited the Dark Side.
-#
-# Marc Ringuette, 9/25/2018
+# rlm --> Allows Rx Ry Rz Lx Ly Lz M
+# trailing 1 --> disallows U2 D2 F2 B2
 
 Set Stickers 64 1
 
