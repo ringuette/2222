@@ -1,7 +1,7 @@
 Name canon1
 
 # canon --> Allows Rx Ry Rz Lx Ly Lz Ix Ox Gyro ; disallows Iy Iz Oy Oz
-# trailing 1 --> disallows U2 D2 F2 B2
+# trailing 1 --> disallows U D F B
 
 Set Stickers 64 1
 
